@@ -55,11 +55,10 @@ style the elements with a class of page-row
  - give the element a margin of 2% on the top and bottom
 */
 .page-row {
-  width=100%;
+  width: 100%;
   clear: both;
   padding: 5%;
-  margin-top: 2%;
-  margin-bottom: 2%;
+  margin: 2% 0;
 }
 
 
